@@ -1,0 +1,97 @@
+Loaded embeddings: ['v4x_sentence_transformers', 'v4x_transformers', 'v5x_sentence_transformers', 'v5x_transformers']
+
+=== v4x_sentence_transformers vs v4x_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  0.99999994
+  Max cosine similarity:  1.00000012
+
+  [0] 0.99999994  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000012  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000012  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000012  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000012  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v4x_sentence_transformers vs v5x_sentence_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  1.00000000
+  Max cosine similarity:  1.00000012
+
+  [0] 1.00000012  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000012  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000000  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000000  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000000  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000012  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v4x_sentence_transformers vs v5x_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  1.00000000
+  Max cosine similarity:  1.00000012
+
+  [0] 1.00000012  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000000  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000000  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000000  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000000  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v4x_transformers vs v5x_sentence_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  0.99999994
+  Max cosine similarity:  1.00000012
+
+  [0] 0.99999994  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000012  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000012  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000012  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000012  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v4x_transformers vs v5x_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  1.00000000
+  Max cosine similarity:  1.00000012
+
+  [0] 1.00000000  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000000  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000012  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000000  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000000  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v5x_sentence_transformers vs v5x_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  1.00000000
+  Max cosine similarity:  1.00000012
+
+  [0] 1.00000012  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000000  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000000  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000000  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000000  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.

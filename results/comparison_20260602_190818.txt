@@ -1,0 +1,97 @@
+Loaded embeddings: ['v4x_sentence_transformers', 'v4x_transformers', 'v5x_sentence_transformers', 'v5x_transformers']
+
+=== v4x_sentence_transformers vs v4x_transformers ===
+  Mean cosine similarity: 1.00000000
+  Min cosine similarity:  0.99999994
+  Max cosine similarity:  1.00000012
+
+  [0] 0.99999994  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend.
+  [1] 1.00000012  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler.
+  [2] 1.00000000  Der Kunde hat sich über die verspätete Lieferung beschwert.
+  [3] 1.00000012  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern 
+  [4] 1.00000012  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in
+  [5] 1.00000012  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell
+  [6] 1.00000012  Unser Team arbeitet an einer skalierbaren Microservice-Architektur.
+  [7] 1.00000000  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen.
+  [8] 1.00000000  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution
+  [9] 1.00000012  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt.
+
+=== v4x_sentence_transformers vs v5x_sentence_transformers ===
+  Mean cosine similarity: -0.03019846
+  Min cosine similarity:  -0.08113050
+  Max cosine similarity:  0.00278768
+
+  [0] -0.05771495  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend. <-- DRIFT
+  [1] -0.02987508  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler. <-- DRIFT
+  [2] 0.00169925  Der Kunde hat sich über die verspätete Lieferung beschwert. <-- DRIFT
+  [3] 0.00222581  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern  <-- DRIFT
+  [4] -0.00438580  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in <-- DRIFT
+  [5] 0.00278768  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell <-- DRIFT
+  [6] -0.08113050  Unser Team arbeitet an einer skalierbaren Microservice-Architektur. <-- DRIFT
+  [7] -0.05296708  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen. <-- DRIFT
+  [8] -0.03938074  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution <-- DRIFT
+  [9] -0.04324324  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt. <-- DRIFT
+
+=== v4x_sentence_transformers vs v5x_transformers ===
+  Mean cosine similarity: 0.03701074
+  Min cosine similarity:  -0.01177220
+  Max cosine similarity:  0.08766678
+
+  [0] 0.07505931  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend. <-- DRIFT
+  [1] -0.01177220  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler. <-- DRIFT
+  [2] 0.03472718  Der Kunde hat sich über die verspätete Lieferung beschwert. <-- DRIFT
+  [3] 0.05309704  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern  <-- DRIFT
+  [4] -0.00799691  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in <-- DRIFT
+  [5] 0.04035133  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell <-- DRIFT
+  [6] 0.00427441  Unser Team arbeitet an einer skalierbaren Microservice-Architektur. <-- DRIFT
+  [7] 0.03140561  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen. <-- DRIFT
+  [8] 0.08766678  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution <-- DRIFT
+  [9] 0.06329488  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt. <-- DRIFT
+
+=== v4x_transformers vs v5x_sentence_transformers ===
+  Mean cosine similarity: -0.03019846
+  Min cosine similarity:  -0.08113050
+  Max cosine similarity:  0.00278768
+
+  [0] -0.05771494  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend. <-- DRIFT
+  [1] -0.02987507  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler. <-- DRIFT
+  [2] 0.00169925  Der Kunde hat sich über die verspätete Lieferung beschwert. <-- DRIFT
+  [3] 0.00222581  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern  <-- DRIFT
+  [4] -0.00438580  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in <-- DRIFT
+  [5] 0.00278768  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell <-- DRIFT
+  [6] -0.08113050  Unser Team arbeitet an einer skalierbaren Microservice-Architektur. <-- DRIFT
+  [7] -0.05296708  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen. <-- DRIFT
+  [8] -0.03938074  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution <-- DRIFT
+  [9] -0.04324324  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt. <-- DRIFT
+
+=== v4x_transformers vs v5x_transformers ===
+  Mean cosine similarity: 0.03701074
+  Min cosine similarity:  -0.01177220
+  Max cosine similarity:  0.08766678
+
+  [0] 0.07505930  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend. <-- DRIFT
+  [1] -0.01177220  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler. <-- DRIFT
+  [2] 0.03472718  Der Kunde hat sich über die verspätete Lieferung beschwert. <-- DRIFT
+  [3] 0.05309703  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern  <-- DRIFT
+  [4] -0.00799691  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in <-- DRIFT
+  [5] 0.04035133  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell <-- DRIFT
+  [6] 0.00427440  Unser Team arbeitet an einer skalierbaren Microservice-Architektur. <-- DRIFT
+  [7] 0.03140561  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen. <-- DRIFT
+  [8] 0.08766678  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution <-- DRIFT
+  [9] 0.06329488  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt. <-- DRIFT
+
+=== v5x_sentence_transformers vs v5x_transformers ===
+  Mean cosine similarity: -0.03311057
+  Min cosine similarity:  -0.04277224
+  Max cosine similarity:  -0.02188034
+
+  [0] -0.03711658  Die Künstliche Intelligenz verändert unsere Arbeitswelt grundlegend. <-- DRIFT
+  [1] -0.02188034  Im Schwarzwald gibt es viele schöne Wanderwege entlang der Täler. <-- DRIFT
+  [2] -0.03997784  Der Kunde hat sich über die verspätete Lieferung beschwert. <-- DRIFT
+  [3] -0.03218777  Maschinelles Lernen ermöglicht die automatische Erkennung von Mustern  <-- DRIFT
+  [4] -0.03256059  Das neue Gesetz zur Datenschutzgrundverordnung tritt nächsten Monat in <-- DRIFT
+  [5] -0.03064524  Die Entwicklung von Elektrofahrzeugen schreitet in Deutschland schnell <-- DRIFT
+  [6] -0.03428317  Unser Team arbeitet an einer skalierbaren Microservice-Architektur. <-- DRIFT
+  [7] -0.02406051  Die Inflationsrate ist im vergangenen Quartal unerwartet gestiegen. <-- DRIFT
+  [8] -0.04277224  Transformer-Modelle haben die natürliche Sprachverarbeitung revolution <-- DRIFT
+  [9] -0.03562145  Der Patient wurde erfolgreich mit einer neuartigen Therapie behandelt. <-- DRIFT
